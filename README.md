@@ -1,4 +1,3 @@
-dvwa
 <?php
 
 define( 'DVWA_WEB_PAGE_TO_ROOT', '' );
